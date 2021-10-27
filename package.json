@@ -1,0 +1,17 @@
+{
+  "name": "Codes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "proj.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "excel4node": "^1.7.2",
+    "minimist": "^1.2.5",
+    "puppeteer": "^10.4.0"
+  }
+}
